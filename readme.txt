@@ -13,10 +13,10 @@ original firmware https://github.com/beckdac/ESP8266-transparent-bridge
 
 upload firmware with nodemcu and this settings:
 menu advanced
-baud rate: 230.000 (115200)
+baud rate: 230.400 (or 115200)
 flash size: 512k
 flash speed: 40mhz
-spi mode DIO:
+spi mode: DIO
 
 menu Config
 start address 0x00000
